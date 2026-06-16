@@ -8,9 +8,8 @@
   </p>
 </div>
 
-## Installation
-The Darkwings editor layer is made to be built with the Darkwings engine library.
-You can find library releases on the [GitHub releases page](https://github.com/CryptographicRaven/Darkwings-Editor).
+## Why put it on GitHub?
+This project is open-source as to allows users to report issues and peek internal structure.
 
 ## Notice
 This project only contains the editor layer and not the engine itself as it is a proprietary software of Cryptographic Raven.
