@@ -1,0 +1,38 @@
+# Build output
+bin/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.lib
+
+# Odin compiler artifacts
+*.pdb
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.zed/
+ols.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Vulkan shader cache
+*.spv.cache
+
+# Compiled shaders (optional, uncomment if you want to ignore)
+# resources/shaders/*.spv
+
+# External build artifacts
+external/**/build/
+external/**/*.o
+external/**/*.a
