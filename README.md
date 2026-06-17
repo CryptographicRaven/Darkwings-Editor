@@ -13,3 +13,9 @@ This project is open-source as to allows users to report issues and peek interna
 
 ## Notice
 This project only contains the editor layer and not the engine itself as it is a proprietary software of Cryptographic Raven.
+
+## Building
+**The SDK requires the engine dynamic library when running build scripts**
+
+To build the engine, ensure you have the engine dynamic library available and set the `DARKWINGS_ENGINE_DYNAMIC` environment variable to its location.
+You can retrieve the engine dynamic library from the [Darkwings mod SDK releases page](https://github.com/CryptographicRaven/mod-SDK/releases).
