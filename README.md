@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Darkwings Modding Editor</h3>
+  <h3 align="center">Darkwings Modding Software Development Kit</h3>
 
   <p align="center">
     Our set of tools to mod your favorite games built on our in-house engine.
